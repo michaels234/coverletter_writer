@@ -1,0 +1,1 @@
+!pip install python-dotenv requests python-docx beautifulsoup4 openai WeasyPrint pyperclip
